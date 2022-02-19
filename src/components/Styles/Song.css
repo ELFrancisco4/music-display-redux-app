@@ -1,0 +1,8 @@
+.song-box-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    width: 100%;
+    align-items: center;
+}
+

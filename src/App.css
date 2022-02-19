@@ -1,0 +1,12 @@
+.App{
+  padding: 1em;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  height: 50vh;
+  justify-content: space-evenly;
+  padding: 2em;
+  width: 50%;
+  border: solid 2px #ccc;
+  border-radius: 20px;
+}
