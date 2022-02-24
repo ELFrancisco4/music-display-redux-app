@@ -3,10 +3,10 @@ import "./Styles/Song.css";
 
 
 
-function SongComponent(props) {
+function SongComponent({song}) {
   return (
     <div className="song-box-container">
-      <p>{props.song}</p>
+      <p>{song}</p>
       <div className="line-break"></div>
     </div>
   );
